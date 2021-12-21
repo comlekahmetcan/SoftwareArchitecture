@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Facade_Tasarım__Deseni_Vize_Müzik/1.0.0": {
+        "runtime": {
+          "Facade_Tasarım__Deseni_Vize_Müzik.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Facade_Tasarım__Deseni_Vize_Müzik/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

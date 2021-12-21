@@ -1,0 +1,13 @@
+C:\Users\ahmet can\source\repos\Facade_Tasarım__Deseni_Vize_Müzik\bin\Debug\netcoreapp3.1\Facade_Tasarım__Deseni_Vize_Müzik.exe
+C:\Users\ahmet can\source\repos\Facade_Tasarım__Deseni_Vize_Müzik\bin\Debug\netcoreapp3.1\Facade_Tasarım__Deseni_Vize_Müzik.deps.json
+C:\Users\ahmet can\source\repos\Facade_Tasarım__Deseni_Vize_Müzik\bin\Debug\netcoreapp3.1\Facade_Tasarım__Deseni_Vize_Müzik.runtimeconfig.json
+C:\Users\ahmet can\source\repos\Facade_Tasarım__Deseni_Vize_Müzik\bin\Debug\netcoreapp3.1\Facade_Tasarım__Deseni_Vize_Müzik.runtimeconfig.dev.json
+C:\Users\ahmet can\source\repos\Facade_Tasarım__Deseni_Vize_Müzik\bin\Debug\netcoreapp3.1\Facade_Tasarım__Deseni_Vize_Müzik.dll
+C:\Users\ahmet can\source\repos\Facade_Tasarım__Deseni_Vize_Müzik\bin\Debug\netcoreapp3.1\Facade_Tasarım__Deseni_Vize_Müzik.pdb
+C:\Users\ahmet can\source\repos\Facade_Tasarım__Deseni_Vize_Müzik\obj\Debug\netcoreapp3.1\Facade_Tasarım__Deseni_Vize_Müzik.csprojAssemblyReference.cache
+C:\Users\ahmet can\source\repos\Facade_Tasarım__Deseni_Vize_Müzik\obj\Debug\netcoreapp3.1\Facade_Tasarım__Deseni_Vize_Müzik.csproj.CoreCompileInputs.cache
+C:\Users\ahmet can\source\repos\Facade_Tasarım__Deseni_Vize_Müzik\obj\Debug\netcoreapp3.1\Facade_Tasarım__Deseni_Vize_Müzik.AssemblyInfoInputs.cache
+C:\Users\ahmet can\source\repos\Facade_Tasarım__Deseni_Vize_Müzik\obj\Debug\netcoreapp3.1\Facade_Tasarım__Deseni_Vize_Müzik.AssemblyInfo.cs
+C:\Users\ahmet can\source\repos\Facade_Tasarım__Deseni_Vize_Müzik\obj\Debug\netcoreapp3.1\Facade_Tasarım__Deseni_Vize_Müzik.dll
+C:\Users\ahmet can\source\repos\Facade_Tasarım__Deseni_Vize_Müzik\obj\Debug\netcoreapp3.1\Facade_Tasarım__Deseni_Vize_Müzik.pdb
+C:\Users\ahmet can\source\repos\Facade_Tasarım__Deseni_Vize_Müzik\obj\Debug\netcoreapp3.1\Facade_Tasarım__Deseni_Vize_Müzik.genruntimeconfig.cache
